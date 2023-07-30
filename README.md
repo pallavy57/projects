@@ -105,6 +105,3 @@ Sensitivity aka Recall (true positives / all actual positives) = TP / TP + FN
 Specificity (true negatives / all actual negatives) =TN / TN + FP
 
 
-Should I choose Random Forest regressor or classifier
-https://www.mygreatlearning.com/blog/random-forest-algorithm/#:~:text=A%20random%20forest%20classifier%20works,cannot%20be%20defined%20by%20classes.
-analyticsvidhya.com/blog/2021/06/understanding-random-forest/
